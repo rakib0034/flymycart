@@ -1,0 +1,2 @@
+rootProject.name='hostapp'
+include ':app'
